@@ -1,8 +1,0 @@
-HOST=172.16.0.131
-PORT=8080
-DB_HOST=200.98.138.158
-DB_USER=projeto
-DB_PASS=projeto
-DB_DATABASE=files
-PATH_ARQ=/home/administrador/Documents/filetransf/servidor/repositorio
-LOG_PATH=/home/administrador/Documents/filetransf/servidor/logs
